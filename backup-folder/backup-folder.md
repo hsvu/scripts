@@ -16,7 +16,7 @@ There are two scripts written in shell.
 **AND** RE-WRITE over your current folder with a previous backed up version.
 
 ### snapshot-save.sh
-You can find the file [here](https://github.com/hsvu/scripts/blob/main/snapshot-save.sh){: target="_blank"}.
+You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-folder/snapshot-save.sh).
 
 You can run this script using the command
 ```
@@ -33,7 +33,7 @@ and from then on you can run the script using
 ```
 
 ### snapshot-load.sh
-You can find the file [here](https://github.com/hsvu/scripts/blob/main/snapshot-load.sh){: target="_blank"}.
+You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-folder/snapshot-load.sh).
 
 You can run this script using the command
 ```
@@ -55,7 +55,7 @@ and from then on you can run the script using
 The perl script is similar to the shell script except it's all compiled in
 a single file.
 
-You can find the file [here](https://github.com/hsvu/scripts/blob/main/snapshot.pl){: target="_blank"}.
+You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-folder/snapshot.pl).
 
 To back up your folder, you need to run
 ```
