@@ -4,7 +4,7 @@ A shell script to send a some documents to an email through the terminal.
 
 Useful when your email client takes too long to open.
 
-You can find the file [here](https://github.com/hsvu/scripts/blob/main/email-terminal.sh){: target="_blank"}.
+You can find the file [here](https://github.com/hsvu/scripts/blob/main/email-terminal/email-terminal.sh).
 
 You can run this script using the command
 ```
