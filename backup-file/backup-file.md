@@ -8,7 +8,7 @@ roll back to a previous version to start fresh.
 Or just to keep a copy on your progress, I'm not judging.
 
 ## Shell
-You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-file.sh){: target="_blank"}.
+You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-file/backup-file.sh).
 
 You can run this script using the command
 ```
@@ -26,7 +26,7 @@ and from then on you can run the script using
 
 ---
 ## Perl
-You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-file.pl){: target="_blank"}.
+You can find the file [here](https://github.com/hsvu/scripts/blob/main/backup-file/backup-file.pl).
 
 You can run this script using the command
 ```
